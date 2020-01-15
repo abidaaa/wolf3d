@@ -36,4 +36,6 @@ This project will only work on MacOS El Capitan/Sierra/HighSierra(maybe) and eve
 ### *Usage*
 
 After running make to generate the Wolf3d executable you can run the program with ./wolf3d
+
+
 Enjoy.

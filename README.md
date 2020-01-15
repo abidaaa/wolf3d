@@ -22,7 +22,9 @@ Here is some examples :
 
 ![Wolf3d4:](https://github.com/abidaaa/wolf3d/blob/master/Images/4.png)
 
-<div style="text-align:center"><img src="https://github.com/abidaaa/wolf3d/blob/master/Images/wolf3d.gif" /></div>
+<p align="center">
+  <img src="https://github.com/abidaaa/wolf3d/blob/master/Images/wolf3d.gif" alt="wolf3d gif"/>
+</p>
 
 ### How do I use it?
 

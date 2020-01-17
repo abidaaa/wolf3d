@@ -31,7 +31,6 @@ Here is some examples :
 ### *Installation*
 
 To generate an executable for this project run make in the root of the project directory. 
-This project will only work on MacOS El Capitan/Sierra/HighSierra(maybe) and even then, no promises!
 
 ### *Usage*
 
